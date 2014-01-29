@@ -105,6 +105,24 @@
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- SpongyCastle Core -->
+		<dependency>
+		    <groupId>com.madgag.spongycastle</groupId>
+		    <artifactId>core</artifactId>
+		    <version>1.50.0.0</version>
+		</dependency>
+		<!-- SpongyCastle Prov -->
+		<dependency>
+		    <groupId>com.madgag.spongycastle</groupId>
+		    <artifactId>prov</artifactId>
+		    <version>1.50.0.0</version>
+		</dependency>
+		<!-- Google Guava -->
+		<dependency>
+		    <groupId>com.google.guava</groupId>
+		    <artifactId>guava</artifactId>
+		    <version>16.0</version>
+		</dependency>
 
 	</dependencies>
 
